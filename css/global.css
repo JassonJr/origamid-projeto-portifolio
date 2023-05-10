@@ -4,5 +4,14 @@
 }
 
 body {
-  font-family: "PT Mono", monospace, Arial, sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
 }

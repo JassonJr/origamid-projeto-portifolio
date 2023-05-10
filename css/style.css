@@ -1,2 +1,5 @@
+@import "./colors.css";
+@import "./typography.css";
 @import "./global.css";
 @import "./header.css";
+@import "./introducao.css";

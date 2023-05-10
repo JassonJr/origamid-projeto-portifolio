@@ -1,0 +1,24 @@
+:root {
+  /* color variables */
+  --primary-color: #e8a015;
+
+  --pure-white: #ffffff;
+  --gray-2: #f0f0f0;
+  --gray-6: #a3a3a3;
+  --gray-7: #8f8f8f;
+  --gray-9: #666666;
+  --gray-12: #29292929;
+  --black-14: #0d0d0d;
+  --black-15: #090909;
+  --black-16: #000000;
+
+  /* efeito gradient */
+  --gradient-0: 224, 148, 0;
+  --gradient-1: 249, 210, 112;
+  /* linear-gradient(
+      180deg,
+      rgba(var(--gradient-0), 1) 0%,
+      rgba(var(--gradient-1), 1) 100%
+    )
+    no-repeat; */
+}

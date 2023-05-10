@@ -1,0 +1,24 @@
+/* titles */
+h1 {
+  font-family: "EB Garamond", serif;
+  font-style: bold;
+}
+h2 {
+  font-family: "Passion One", cursive;
+  font-style: regular;
+}
+/* tags */
+.tags {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: bold;
+  font-size: 14px;
+  line-height: 22px;
+
+  color: var(--black-16);
+}
+/* paragraphs & buttons*/
+p,
+a {
+  font-family: "PT Mono", monospace, Arial, sans-serif;
+  font-style: regular;
+}
