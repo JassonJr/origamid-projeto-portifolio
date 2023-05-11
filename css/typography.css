@@ -3,7 +3,8 @@ h1 {
   font-family: "EB Garamond", serif;
   font-style: bold;
 }
-h2 {
+h2,
+.empresa-titulo {
   font-family: "Passion One", cursive;
   font-style: regular;
 }
@@ -21,4 +22,8 @@ p,
 a {
   font-family: "PT Mono", monospace, Arial, sans-serif;
   font-style: regular;
+}
+
+.highlight {
+  color: var(--primary-color);
 }

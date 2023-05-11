@@ -6,6 +6,7 @@
 body {
   max-width: 1440px;
   margin: 0 auto;
+  margin-bottom: 700px;
 }
 ul {
   list-style: none;
@@ -14,4 +15,20 @@ ul {
 img {
   max-width: 100%;
   display: block;
+}
+
+.subtitulo {
+  font-size: 8rem;
+  line-height: 1;
+  text-transform: uppercase;
+  max-width: 6ch;
+  word-break: break-all;
+}
+
+@media (max-width: 1080px) {
+  .subtitulo {
+    font-size: 3rem;
+    text-transform: capitalize;
+    max-width: initial;
+  }
 }
