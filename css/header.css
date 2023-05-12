@@ -18,14 +18,15 @@
   color: var(--black-16);
 }
 
+.header-menu a:hover {
+  background: #f5f5f5;
+  border-radius: 4px;
+}
+
 @media (max-width: 900px) {
   .header {
     flex-direction: column;
     gap: 40px;
     padding: 20px;
-  }
-  .header a {
-    background-color: #f5f5f5;
-    border-radius: 4px;
   }
 }
